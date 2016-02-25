@@ -1,3 +1,57 @@
+## 3.5.2
+
+* Support `LaTeX Beamer`
+
+## 3.5.1
+
+* Temporarily remove a `Cake[file]` support cause of bugs
+
+## 3.5.0
+
+* Visual updates to the options view
+* Support prolog
+* Support `Cake[file]`
+* Improved selection based support for Perl
+* Small bug fixes all over
+* We promise to lint and have some sanity around :coffee:script
+* New profiles mode!
+
+## 3.0.2
+
+* Fix when stdin is coming on in (still doesn't accept it, but it also doesn't act wild)
+* JXA language support fixed
+* Support for Postgres
+* Selection based support for Octave
+
+## 3.0.1
+
+* Quick doc updates
+
+## 3.0.0
+
+* Support for Dart
+* Support for Nim/Nimscript
+* Support for JXA (OS X - JavaScript for Automation)
+* Selection support for NSIS
+* Major refactor of runs - let us know how it goes
+* File paths get wrapped as links
+
+## 2.29.0
+
+* Really 2.28.0 again, can't seem to delete failed releases on atom.io
+
+## 2.28.0
+* Add Nim support
+* Add Pandoc Markdown support
+* Upgrade strip ANSI
+
+## 2.27.0
+* Crystal Language support
+* LaTeX support
+* NSIS support
+* Scrolls down in a polling loop to catch the reflow!
+* No more grandparent bottom panel
+
 ## 2.26.4
 * Fix Babel support
 * Now with TypeScript!
